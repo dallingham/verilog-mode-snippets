@@ -1,0 +1,12 @@
+# name: case
+# key: case
+# group: verilog
+# --
+case ($1) 
+   $2: 
+      begin
+      end
+   default:
+      begin
+      end 
+endcase

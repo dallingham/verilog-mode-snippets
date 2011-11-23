@@ -1,0 +1,8 @@
+# name: function
+# key: func
+# group: verilog
+# --
+/*! Description
+ */
+function ${2:Type} ${1:Name}();
+endfunction : $1

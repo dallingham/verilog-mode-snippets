@@ -1,0 +1,7 @@
+# name: virtual task
+# key: vtask
+# group: verilog
+# --
+/*! Description */
+virtual task ${1:Name}();
+endtask : $1

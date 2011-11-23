@@ -1,0 +1,7 @@
+# name: interface
+# key: interface
+# group: verilog
+# --
+interface ${1:Name} ();
+endinterface : $1
+

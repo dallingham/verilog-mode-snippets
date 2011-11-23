@@ -1,0 +1,7 @@
+# name: task
+# key: task
+# group: verilog
+# --
+/*! Description */
+task ${1:Name}();
+endtask : $1
