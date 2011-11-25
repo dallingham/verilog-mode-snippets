@@ -21,6 +21,7 @@ class ${1:SequenceName}_seq_c extends virtual_sequence_c;
    endfunction : new
 
    task body();
+      $0
    endtask : body
 
 endclass : $1_seq_c

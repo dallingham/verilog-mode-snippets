@@ -4,4 +4,5 @@
 # --
 /*! Description */
 virtual task ${1:Name}();
+   $0
 endtask : $1

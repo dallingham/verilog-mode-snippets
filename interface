@@ -3,5 +3,6 @@
 # group: verilog
 # --
 interface ${1:Name} ();
+   $0
 endinterface : $1
 

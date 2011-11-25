@@ -2,8 +2,8 @@
 # key: enum
 # group: verilog
 # --
-/*! Descritpion */
+/*! Description */
 typedef enum ${2:Type} {
-   ${3:Value} = $4;  //!< Value Description
+   ${3:Value} = $0;  //!< Value Description
 } ${1:Name};
 

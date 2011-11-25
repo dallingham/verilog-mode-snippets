@@ -5,6 +5,7 @@
 class ${1:Name} extends $2;
 
    function new;
+      $0
    endfunction : new
 
 endclass : $1

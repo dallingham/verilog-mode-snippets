@@ -25,7 +25,7 @@ class $1_${2:Seq}_seq_c extends ${1:Agent}_seq_base_c;
      req = $1_item_c::type_id::create("req");
 
      start_item(req);
-
+     $0
      finish_item(req);
      get_response(rsp);
    endtask : body
